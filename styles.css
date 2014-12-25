@@ -1,0 +1,89 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #22313F;
+}
+
+body a {
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 36px;
+	font-weight: 600;
+	margin-top: 20px;
+	color: #2980b9;
+	display: inline-block;
+}
+
+h1 a {
+	color: #2980b9;
+}
+
+.hide span {
+	visibility: hidden;
+}
+
+ul.menu{
+	display: inline;
+	float: right;
+	margin-top: 35px;	
+}
+
+ul.menu li{
+	display: inline;
+	margin-right: 35px;
+}
+
+ul.menu li a {
+	color: #22313F;
+	text-decoration: none;
+}
+
+ul.icons {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+ul.icons {
+	display: inline;
+	float: right;
+}
+
+ul.icons li {
+	display: inline;
+	margin-right: 20px;
+}
+
+.about {
+	margin-top: 70px;
+}
+
+h5 {
+	color: #6BB9F0;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+img.me {
+	margin-left: 10px;
+	margin-right: 30px;
+	max-height: 250px;
+	float:left;
+}
+
+.about {
+	font-size: 1.4em;
+}
+
+.aboutme {
+	margin-left: 10px;
+}
+
+.personal {
+	margin-top: 70px;
+}
+
+span.bold {
+	font-weight: 700;
+}
